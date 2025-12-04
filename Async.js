@@ -12,6 +12,7 @@ const myfun=async()=>{
     console.log(result)
     console.log("456")
     console.log("testing");
+    console.log("testing2");
 }
 myfun()
 
