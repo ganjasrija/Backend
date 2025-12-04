@@ -15,3 +15,4 @@ getUserDetails("121",function(userroll){
         getSubjectMarks(subjectid)
     })
 })
+console.log("testing");
